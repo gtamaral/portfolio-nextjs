@@ -1,8 +1,14 @@
 // img
 import Image from "next/image"
-import NavLink from "./NavLink";
+// import { useRouter } from "next/router";
+
+
 
 const HeroSection = () => {
+    // const router = useRouter()
+
+
+
     return (
         <section>
             <div className="grid grid-cols-1 sm:grid-cols-12">
@@ -18,9 +24,9 @@ const HeroSection = () => {
                     {/* <button className="px-6 py-3 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-blue-700 via-blue-500 to-green-900 hover:bg-slate-200 text-white">Hire me</button> */}
                     {/* <a href="https://www.instagram.com/">Linkedin</a>
                     <a href="https://www.instagram.com/">Github</a> */}
-                    <button className="px-1 py-1 w-full sm:w-fit rounded-full hover:bg-slate-800 text-white border border-blue-800 mt-3 mb-6">
-                        <span className="block bg-[#121212] hover:bg-blue-600 rounded-full px-5 py-2 ">Saiba mais</span>
-                    </button>
+                    {/* <button onClick={() => router.push("/about")} title={"about"} className="px-1 py-1 w-full sm:w-fit rounded-full hover:bg-slate-800 text-white border border-blue-800 mt-3 mb-6">
+                            <span className="block bg-[#121212] hover:bg-blue-600 rounded-full px-5 py-2 ">Saiba mais</span>                        
+                    </button> */}
                 </div>
                 {/* icons insta -> linkedin -> gitub */}
                 <div className=" sm:w-fit socials flex flex-row gap-4 justify-center ml-4">

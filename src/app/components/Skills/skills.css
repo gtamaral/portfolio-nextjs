@@ -21,13 +21,15 @@
 .section__title {
     font-size: 2.25rem;
     font-weight: bold;
+   
 }
 
 .section__subtitle {
     display: block;
-    font-size: 1.5rem;
+    font-size: 1.25rem;
     margin-bottom: 4rem;
 }
+
 
 .section__title,
 .section__subtitle {
@@ -61,6 +63,8 @@
     justify-content: center;
     margin-bottom: 1.5rem;
     font-size: 1.25rem;
+    font-weight: bold;
+    /* border-bottom: 0.8px solid #dedede; */
    
     
 
