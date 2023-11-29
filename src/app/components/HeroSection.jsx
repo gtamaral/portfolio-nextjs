@@ -1,5 +1,6 @@
 // img
 import Image from "next/image"
+import NavLink from "./NavLink";
 
 const HeroSection = () => {
     return (
@@ -18,7 +19,7 @@ const HeroSection = () => {
                     {/* <a href="https://www.instagram.com/">Linkedin</a>
                     <a href="https://www.instagram.com/">Github</a> */}
                     <button className="px-1 py-1 w-full sm:w-fit rounded-full hover:bg-slate-800 text-white border border-blue-800 mt-3 mb-6">
-                        <span className="block bg-[#121212] hover:bg-blue-600 rounded-full px-5 py-2 ">Dowload CV</span>
+                        <span className="block bg-[#121212] hover:bg-blue-600 rounded-full px-5 py-2 ">Saiba mais</span>
                     </button>
                 </div>
                 {/* icons insta -> linkedin -> gitub */}

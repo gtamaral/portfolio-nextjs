@@ -32,6 +32,7 @@
 .section__title,
 .section__subtitle {
     text-align: center;
+    color: white;
 }
 
 .skills__container {
