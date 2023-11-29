@@ -28,7 +28,7 @@ const TAB_DATA = [
         id: "education", 
         content: (
             <ul className='list-disc pl-2'> 
-                <li>Bacharelado em Sistemas de Informação, no Centro de Informática (CIN) da UFPE.</li>
+                <li>Bacharelando em Sistemas de Informação, no Centro de Informática (CIN) da UFPE.</li>
                 <li>Ensino médio completo no Instituto Federal de Pernambuco (IFPE).</li>
             </ul>
         )
