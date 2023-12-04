@@ -1,36 +1,45 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">
+    Portfólio 
+</h1>
 
-## Getting Started
+<h4 align="center"> 
+	 🔍 Projeto desenvolvido para armazenar minhas principais informações e projetos.
+</h4>
 
-First, run the development server:
+## 💻 Sobre o projeto
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Este é o código-fonte do meu portfólio, desenvolvido com Next.js. Escolhi utilizar o Next.js para consolidar e aplicar os conhecimentos adquiridos com esta tecnologia.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Por que Next.js ?
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+1. Rápido Carregamento: Next.js oferece uma experiência de carregamento mais rápida.
+2. Roteamento Dinâmico: Explorei recursos avançados como roteamento dinâmico.
+3. Modularidade: Estrutura modular para desenvolvimento eficiente e manutenção fácil.
+4. Geração Estática e Pré-renderização: Utilizei esses recursos para otimizar o desempenho
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 📱 Páginas
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- [x] **Hero-Section:** Aqui, compartilho uma visão rápida sobre quem eu sou, o que faço e minha paixão pela tecnologia.
 
-## Deploy on Vercel
+- [x] **About:** Compartilho insights sobre meus interesses, valores e a motivação que impulsiona minha paixão pela programação.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- [x] **Skills:** Destaco as ferramentas e tecnologias que domino. Desde linguagens de programação até frameworks e ferramentas, você encontrará aqui um resumo das minhas habilidades técnicas.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- [x] **Projetos** Dê uma olhada nos códigos, nas funcionalidades e nas histórias por trás de cada projeto.
+
+- [ ] **Página para contato(email):** Página para o usuário poder entrar em contato comigo.
+
+---
+
+## 🛠 Tecnologias
+
+- React
+- Next
+- TaiwindCSS
+- CSS
+- Styled-Components
+
