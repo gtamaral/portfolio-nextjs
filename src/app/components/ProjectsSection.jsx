@@ -43,7 +43,7 @@ const projectsData = [
         description: "O projeto em React envolve adivinhar palavras a partir de dicas fornecidas, com uma base de dados categorizada por sugestões, desafiando os jogadores a revelar a palavra letra por letra.",
         image: "/images/projects/palavra.png",
         gitUrl: "https://github.com/gtamaral/Secret-Word",
-        previewUrl: "https://about-movies-git-master-gtamaral.vercel.app/",
+        previewUrl: "https://secret-word-gamma.vercel.app/",
     },
     {
         id: 6,
