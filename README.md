@@ -29,7 +29,7 @@ Este é o código-fonte do meu portfólio, desenvolvido com Next.js. Escolhi uti
 
 - [x] **Skills:** Destaco as ferramentas e tecnologias que domino. Desde linguagens de programação até frameworks e ferramentas, você encontrará aqui um resumo das minhas habilidades técnicas.
 
-- [x] **Projetos** Dê uma olhada nos códigos, nas funcionalidades e nas histórias por trás de cada projeto.
+- [x] **Projetos:** Dê uma olhada nos códigos, nas funcionalidades e nas histórias por trás de cada projeto.
 
 - [ ] **Página para contato(email):** Página para o usuário poder entrar em contato comigo.
 
