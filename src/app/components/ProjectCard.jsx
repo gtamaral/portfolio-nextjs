@@ -21,15 +21,15 @@ const ProjectCard = ({ imgUrl, title, tags, description, gitUrl, previewUrl }) =
             href={previewUrl}
             className="h-14 w-14 border-2 relative rounded-full border-[#ADB7BE] hover:border-white group/link"
           >
-            <EyeIcon className="h-10 w-10 text-[#ADB7BE] absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2  cursor-pointer group-hover/link:text-white" />
+            <EyeIcon className="h-10 w-10 text-[#4188bb] absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2  cursor-pointer group-hover/link:text-white" />
           </Link>
         </div>
       </div>
       <div className="text-white rounded-b-xl mt-2 bg-[#181818]py-6 px-4">
-        <h5 className="text-xl font-semibold mb-2">{title}</h5>
+        <h5 className="text-xl font-bold mb-2">{title}</h5>
         {/* add badge stacs */}
         <div className=" flex flex-wrap gap-2 w-full pb-2">
-          {tags.map((tag) => <Badge  className="bg-blue-950  h-5" key={tag}>{tag}</Badge>)}
+          {tags.map((tag) => <Badge  className="bg-blue-950 h-5 text-[#ADB7BE]" key={tag}>{tag}</Badge>)}
           {/* <Badge className="h-6 w-14 bg-">{tags.map((tag) => ())}</Badge> */}
         </div>
 
